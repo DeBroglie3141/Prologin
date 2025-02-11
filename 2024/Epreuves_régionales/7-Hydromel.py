@@ -19,3 +19,6 @@ def hydromel(qtité_miel, qtité_ethanol, recettes):
     return hydromel(qtité_miel - nbLitres * coutMiel, qtité_ethanol, recettes[1:])
 
 print(hydromel(qtitéMiel, 0, recettes))
+
+
+#Tadaaa
